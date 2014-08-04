@@ -19,4 +19,4 @@ Users can visualize and compare aggregate code and crime -- and any other releva
 ## The Data
 * LIVES: foodinspectiondata.us
 * HouseFact: housefacts.me
-* Crime (varies)
+* Crime (varies, e.g. [Monthly St. Louis Crime Data](http://www.slmpd.org/Crimereports.shtml) .csv)
